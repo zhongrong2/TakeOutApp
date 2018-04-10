@@ -1,0 +1,239 @@
+body{
+    background-color: #F5F5F5;
+}
+#header{
+    width: 100%;
+    height: 1.17rem;
+    background-color: #0093FF;
+    margin: 0 auto;
+    padding:0 .29rem;
+}
+.header-left{
+	float: left;
+}
+.header-left span{
+	width: auto;
+    height: auto;
+    font-size: 0.34rem;
+    padding-top: 0.46rem;
+    /* line-height: 0.24rem; */
+    float: left;
+    color: #fff;
+}
+
+#banner{
+	width: 100%;
+	height: auto;
+}
+.banner-top{
+	width: 100%;
+	height: 4.3rem;
+}
+.banner-top img{
+	width: 100%;
+	height: 100%;
+}
+.banner-items{
+	width: 100%;
+	height: 4.58rem;
+	background-color: #fff;
+	margin-top: 0.08rem;
+}
+.banner-items li{
+	width: 3.58rem;
+	height: 1.52rem;
+	float: left;
+	border-right: 0.01rem solid #EDEDED;
+	border-bottom: 0.01rem solid #ededed;
+}
+.banner-left-item{
+	float: left;
+}
+.banner-name{
+	font-size: 0.28rem;
+	color: #E88F29;
+	padding-top: 0.45rem;
+	margin-left: 0.3rem;
+}
+.banner-title{
+	font-size: 0.2rem;
+	color: #A6A6A6;
+	margin-left: 0.3rem;
+	margin-top: 0.16rem;
+}
+.banner-right-item{
+	float: right;
+	width: 0.89rem;
+	height: 0.89rem;
+	margin-right: 0.27rem;
+	margin-top: 0.4rem;
+}
+.banner-right-item img{
+	width: 100%;
+	height: 100%;
+}
+
+#groom{
+	width: 100%;
+	height: auto;
+	margin-top: 0.16rem;
+	background-color: #fff;
+}
+.groom-top h4{
+	font-size: 0.3rem;
+	font-weight: bold;
+	text-align: center;
+}
+.groom-top-title h5{
+	font-size: 0.2rem;
+	text-align: center;
+	font-weight: normal;
+	color: #B1B1B1;
+}
+.groom-items{
+	width: 100%;
+	height: 15.62rem;
+	margin-top: 0.28rem;
+}
+.groom-items li{
+	width: 3.29rem;
+	height: 5.08rem;
+	float: left;
+	margin-left: 0.2rem;
+}
+.item-img{
+	width: 100%;
+	height: 3.32rem;
+	background-color: red;
+	position: relative;
+}
+.item-img-title{
+	width: 100%;
+	height: 0.38rem;
+	background-color: rgba(0, 0, 0, 0.6);
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.item-img-title h5{
+	font-size: 0.16rem;
+	color: #fff;
+	text-align: center;
+	font-weight: normal;
+}
+.groom-item-botton{
+	padding-left: 0.22rem;
+}
+.groom-name{
+	width: 100%;
+	height: auto;
+}
+.groom-name h3{
+	font-size: 0.28rem;
+}
+.groom-title h5{
+	font-size: 0.14rem;
+	font-weight: normal;
+	color: #666666;
+}
+.groom-price h4{
+	width: 30%;
+	float: left;
+	font-size: 0.16rem;
+	color: #FF6000;
+}
+.groom-price span{
+	float: left;
+	width: 1.10rem;
+	height: 0.26rem;
+	border: 0.02rem solid #F66D6B;
+	border-radius: 0.05rem;
+	text-align: center;
+	line-height: 0.26rem;
+	font-size: 0.18rem;
+	font-weight: normal;
+}
+.groom-item-name h5{
+	width: 100%;
+	font-size: 0.18rem;
+	color: #999999;
+	float: left;
+	margin-left: 0.22rem;
+	font-weight: normal;
+}
+.groom-botton{
+	width: 100%;
+	margin-top: 0.34rem;
+	padding-bottom: 0.42rem;
+}
+.groom-botton span{
+	font-size: 0.22rem;
+	text-align: center;
+	display: block;
+	font-weight: normal;
+}
+
+#gifts{
+	width: 100%;
+	height: auto;
+	background-color: #fff;
+	margin-top: 0.22rem;
+}
+.gifts-top{
+	width: 100%;
+	height: auto;
+	padding-top: 0.42rem;
+}
+.groom-top-name h4{
+	font-size: 0.3rem;
+	font-weight: bold;
+	text-align: center;
+}
+.gifts-items{
+	width: 100%;
+	height: 3.12rem;
+	margin-top: 0.4rem;
+	padding: 0 0.29rem;
+}
+.gifts-items li{
+	width: 33.333%;
+	float: left;
+}
+.gifts-item-top span{
+	width: 0.94rem;
+	height: 0.32rem;
+	background-color: #44403F;
+	font-size: 0.18rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.32rem;
+}
+.gifts-img{
+	width: 1.70rem;
+	height: 0.96rem;
+	background-color: red;
+}
+.gifts-name h4{
+	font-size: 0.22rem;
+	padding-top: 0.86rem;
+}
+.gifts-price h4{
+	font-size: 0.22rem;
+	color: #FF563E;
+}
+.gifts-price h5{
+	font-size: 0.16rem;
+	color: #AAAAAA;
+}
+.groom-botton2{
+	width: 100%;
+	padding-bottom: 0.4rem;
+	padding-top: 0.1rem;
+	text-align: center;
+	margin: 0 auto;
+}
+.groom-botton2 span{
+	font-size: 0.2rem;
+	color: #A8A8A8;
+	text-align: center;
+}

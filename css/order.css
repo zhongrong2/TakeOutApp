@@ -1,0 +1,106 @@
+.head{
+    width: 100%;
+    height: 1.3rem;
+    background:#0195ff;
+    float: left;
+}
+.faxian{
+    width: 6.8rem;
+    /*margin-top: 0.4rem;*/
+    color: #fff;
+    font-size: .4rem;
+    line-height: .9rem;
+    margin: 0.4rem auto 0;
+}
+
+.dingd{
+    background: #fff;
+}
+.dingd_main{
+    width: 6.8rem;
+    margin: 0 auto;
+}
+.dingd_item{
+    width: 100%;
+    height: 3.06rem;
+    border-bottom: 0.01rem solid #eee;
+}
+.dingd_left{
+    width: 1.18rem;
+    height: 1.18em;
+    margin-top: .32rem;
+    float: left;
+}
+.dingd_leftimg{
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.dingd_right{
+    width: 5.4rem;
+    height: 2.74rem;
+    margin-top: .32rem;
+    float: right;
+}
+.dingd_title{
+    width: 100%;
+    float: left;
+}
+.dingd_title_left{
+    float: left;
+    color: #333;
+    font-size: .2rem;
+}
+.dingd_title_right{
+    color: #666;
+    font-size: .16rem;
+    float: right;
+}
+.dingd_time{
+    font-size: .12rem;
+    color: #cccccc;
+    float: left;
+    margin-top: .1rem;
+}
+.ding_content{
+    width: 100%;
+    font-size: .18rem;
+    color: #666666;
+    float: left;
+    margin-top: .4rem;
+}
+.ding_content_left{
+    float: left;
+}
+.ding_content_right{
+    float: right;
+}
+.dingd_more{
+    float: left;
+    width: 100%;
+    margin-top: 0.4rem;
+}
+.dingd_more_x{
+    height: .56rem;
+    padding: 0 0.24rem;
+    border: 0.02rem solid #00a0fe;
+    font-size: 0.2rem;
+    color: #00a0fe;
+    float: right;
+    line-height: 0.56rem;
+    margin-left: 0.24rem;
+    border-radius: 0.05rem;
+}
+.dingd_before{
+	display: inline-block;
+	width: 100%;
+    font-size: .2rem;
+    color: #6b6b6b;
+    text-align: center;
+    margin-top: 0.18rem;
+    /* padding-top: 0.2rem; */
+}
+.dingd_list{
+    font-family: 'iconfont';
+    font-size: .2rem;
+}

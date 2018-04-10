@@ -1,0 +1,162 @@
+body{
+	background-color: #F5F5F5;
+}
+a{
+	color: #fff;
+}
+#header{
+	width: 100%;
+    height: 3.4rem;
+    margin: 0 auto;
+    background-color: #0093FF;
+    padding:0 .29rem;
+}
+.header-top{
+	width: 100%;
+    height: 1.17rem;
+}
+.header-lefttop{
+	float: left;
+}
+.header-lefttop span{
+	font-size: 0.34rem;
+	padding-top: 0.4rem;
+	color: #fff;
+}
+.header-righttop{
+	float: right;
+}
+.header-middle{
+	width: auto;
+	height: auto;
+	margin-top: 0.6rem;
+}
+.header-leftmiddle{
+	width: 1.4rem;
+	height: 1.4rem;
+	border-radius: 50%;
+	background-color: red;
+	float: left;
+}
+.header-name{
+	width: 1.7rem;
+	float: left;
+	padding-left: 0.37rem;
+}
+.header-name span{
+	width: 1.7rem;
+	font-size: 0.34rem;
+	color: #fff;
+	float: left;
+	padding-top: 0.2rem;
+}
+.header-rightmiddle{
+	float: right;
+}
+.header-botton{
+	widows: 100%;
+	height: 1.6rem;
+	border-bottom: 0.01rem solid #DDDDDD;
+	background-color: #fff;
+}
+.header-botton li{
+	width: 2.39rem;
+	height: 1.6rem;
+	border-right: 0.01rem solid #DDDDDD;
+	float: left;
+}
+.header-botton-item3{
+	border-right: 0!important;
+}
+.header-botton-item h3{
+	font-size: 0.3rem;
+	color: #2495FF;
+	text-align: center;
+	padding-top: 0.45rem;
+}
+.header-botton-item h4{
+	font-size: 0.28rem;
+	padding-top: 0.2rem;
+	text-align: center;
+}
+.header-botton-item3 h3{
+	font-size: 0.3rem;
+	color: #FFA405;
+	text-align: center;
+	padding-top: 0.45rem;
+}
+.header-botton-item3 h4{
+	font-size: 0.28rem;
+	padding-top: 0.2rem;
+	text-align: center;
+}
+.header-botton-item2{
+	color: #FF5F41!important;
+}
+.img{
+	width: 100%;
+	height: 1.6rem;
+	border-top: 0.01rem solid #DDDDDD;
+	margin-top: 0.16rem;
+}
+.middle1{
+	width: 100%;
+	height: 1.92rem;
+	background-color: #fff;
+	border-bottom: 0.01rem solid #dddddd;
+	margin-top: 0.16rem;
+}
+.middle1 li{
+	height: 0.96rem;
+	width: 100%;
+	border-top: 0.01rem solid #dddddd;
+}
+.middle1 span{
+	font-size: 0.28rem;
+	float: left;
+	line-height: 0.96rem;
+}
+.middle2{
+	width: 100%;
+	height: 6.78rem;
+	background-color: #fff;
+	margin-top: 0.16rem;
+	border-bottom: 0.01rem solid #dddddd;
+}
+.middle2 li{
+	width: 100%;
+	height: 0.96rem;
+	border-top: 0.01rem solid #dddddd;
+}
+.middle2 span{
+	font-size: 0.28rem;
+	float: left;
+	line-height: 0.96rem;
+	font-weight: normal;
+}
+.middle2 h5{
+	font-size: 0.2rem;
+	float: right;
+	padding-right: 0.43rem;
+	color: #AFAFAF;
+	line-height: 0.96rem;
+	font-weight: normal;
+}
+.middle3{
+	width: 100%;
+	height: 2.92rem;
+	background-color: #fff;
+	margin-top: 0.16rem;
+	border-bottom: 0.01rem solid #dddddd;
+}
+.middle3 li{
+	width: 100%;
+	height: 0.96rem;
+	border-top: 0.01rem solid #dddddd;
+}
+.middle3 span{
+	font-size: 0.28rem;
+	float: left;
+	line-height: 0.96rem;
+	font-weight: normal;
+}
