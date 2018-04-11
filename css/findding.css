@@ -211,7 +211,7 @@ body{
 .gifts-img{
 	width: 1.70rem;
 	height: 0.96rem;
-	background-color: red;
+	/* background-color: red; */
 }
 .gifts-name h4{
 	font-size: 0.22rem;

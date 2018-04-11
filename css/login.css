@@ -4,7 +4,7 @@ body{
 #header{
     width: 100%;
     height: 1.17rem;
-    background-color: #0093FF;
+    background-color: #05A9FF;
     margin: 0 auto;
     padding:0 .29rem;
 }
@@ -15,7 +15,7 @@ body{
     padding-top: 0.46rem;
     /* line-height: 0.24rem; */
     float: left;
-    margin-left: 0.72rem;
+    margin-left: 0.5rem;
     color: #fff;
 }
 .header-right span{
@@ -178,4 +178,18 @@ body{
     display: block;
     font-size: 0.2rem;
     line-height: 0.2rem;
+}
+
+.header-comeback{
+    float: left;
+    width: 0.34rem;
+    height: 0.84rem;
+    /* line-height: 1.17rem;
+    display: block; */
+    padding-top: 0.52rem;
+}
+.logo img{
+    width: 0.5rem;
+    height: 0.5rem;
+    margin: 0.15rem auto;
 }
